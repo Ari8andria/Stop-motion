@@ -31,4 +31,6 @@ sudo apt-get install python3-pil python3-pil.imagetk (python 3.x)
 Installation de OpenCV (traitement d'images en temps réel) :
 pip(3) install opencv-python
 
+Installation de tkinter: sudo apt-get install python3-tk
+
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////
