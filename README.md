@@ -7,10 +7,10 @@ Veuillez entrer les lignes de commandes suivantes dans le terminal afin d'instal
 et différents utilitaires permettant de faire fonctionner de manière optimale le code du projet Remote DSLR : 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-Installation de l’utilitaire python
+Installation de l’utilitaire python :
 sudo apt-get install python-setuptools
 
-Installation de l’utilitaire pip
+Installation de l’utilitaire pip :
 sudo apt-get install python3-pip
 
 Si pip ne fonctionne pas, essayer pip3 ( Pour python version 3.x )
