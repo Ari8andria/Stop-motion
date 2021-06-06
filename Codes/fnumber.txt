@@ -1,0 +1,23 @@
+Label: F-Number
+Readonly: 0
+Type: RADIO
+Current: f/4,5
+Choice: 0 f/4,2
+Choice: 1 f/4,5
+Choice: 2 f/5
+Choice: 3 f/5,6
+Choice: 4 f/6,3
+Choice: 5 f/7,1
+Choice: 6 f/8
+Choice: 7 f/9
+Choice: 8 f/10
+Choice: 9 f/11
+Choice: 10 f/13
+Choice: 11 f/14
+Choice: 12 f/16
+Choice: 13 f/18
+Choice: 14 f/20
+Choice: 15 f/22
+Choice: 16 f/25
+Choice: 17 f/29
+END
